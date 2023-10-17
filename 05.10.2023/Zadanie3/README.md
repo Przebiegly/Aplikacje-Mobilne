@@ -1,5 +1,6 @@
 ## Kliknięciu programowego przycisku EXIT (w oknie aplikacji):
 onPause
+
 onStop
 onSaveInstanceState
 
